@@ -4,9 +4,9 @@
 
 <br>
 
-![USAGE GIF OR PIC TO CAPTURE ATTENTION](./assets/memory.gif)
+![Playing memory game gif](./assets/memory.gif)
 
-- [Live](youtube video) demonstration video.
+- [Live](https://youtu.be/w7MhJPOmq1A) demonstration video.
 - [Demo](https://replit.com/@KingCao/Memory-Game?v=1) the Project.
 
 
@@ -39,7 +39,7 @@ python -m ensurepip --upgrade
 
 1. Clone the repo
 ```sh
-git clone git@github.com:dave-cao/Pomodoro-Cli.git
+git clone https://github.com/dave-cao/Memory-Game.git
 ```
 3. Install pip packages
 ```sh
@@ -49,35 +49,25 @@ pip install -r requirements.txt
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Example images can also go here...
-
-1. Go into the `config.py` file and configure the settings to your liking. The default is a 50 minute pomodoro with 10 minute short breaks and a 30 minute long break. File paths can also be configured here.
-
-![Pomo Config Image](img/image3.png)
-
-2. Run the application
+1. Run the application
 ```sh
 python3 main.py
 ```
 
-![Pomo Menu Image](img/image0.png)
-![Pomo Session Image](img/image2.png)
-![Daily Stats Image](img/image1.png)
-
-3. Exit application
+2. Exit application
 ```
 ctl + c
+# or press the close button on the window
 ```
 
-_For a more comprehensive example of using this application, refer to this [video](example video here)_
+_For a more comprehensive example of using this application, refer to this [video](https://youtu.be/w7MhJPOmq1A)_
 
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
-
-Future plans...
+There is no future plans for this project.
 
 
 <!-- CONTRIBUTING -->
@@ -105,7 +95,7 @@ Don't forget to give the project a star! Thanks again!
 - [Youtube](https://www.youtube.com/channel/UCEnBPbnNnqhQIIhW1uLXrLA)
 - [Linkedin](https://www.linkedin.com/in/david-cao99/)
 - Personal Website: https://davidcao.xyz/
-- Project Link - https://github.com/dave-cao/Pomodoro-Cli
+- Project Link - https://github.com/dave-cao/Memory-Game
 
 
 
